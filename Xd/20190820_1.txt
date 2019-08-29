@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int edad;
+    char nombre[31];
+
+    printf("edad: ");
+    scanf("%d", &edad);
+
+    printf("Nombre: ");
+    scanf("%s", nombre);
+
+    printf("Nombre: %s\nEdad: %d", nombre, edad);
+
+    return 0;
+}
