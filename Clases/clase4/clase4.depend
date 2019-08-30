@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1567184804 source:d:\maldonado\laboratorio-programacion\clases\clase4\aritmetica.c
+	"Aritmetica.h"
+
+1567188155 d:\maldonado\laboratorio-programacion\clases\clase4\aritmetica.h
+	<stdio.h>
+
+1567184522 source:d:\maldonado\laboratorio-programacion\clases\clase4\main.c
+	<stdlib.h>
+	"Aritmetica.h"
+
